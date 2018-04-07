@@ -16,3 +16,7 @@
 -Задание 1 часть 2
 
 [скриншот к 1-ому заданию](https://raw.githubusercontent.com/supergroup176/hw6/master/2018-04-07_19-05-44.png)
+
+-Задание 2 часть 2
+
+[скриншот ко 2-ому заданию](https://raw.githubusercontent.com/supergroup176/hw6/master/2018-04-07_19-12-03.png)
